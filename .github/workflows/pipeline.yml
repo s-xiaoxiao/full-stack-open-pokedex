@@ -52,4 +52,5 @@ jobs:
         WITH_V: true
         PRERELEASE: true   
         PATCH_STRING_TOKEN: true
+        DEFAULT_BUMP: patch
   
